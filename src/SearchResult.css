@@ -1,0 +1,17 @@
+.inline {
+  display: inline-block;
+  width: 20%;
+  font-size: 15px;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.row {
+  border-bottom: 3px #f1f8ff solid;
+  padding: 10px 0;
+}
+
+.row:hover {
+  background-color: #f1f8ff;
+};
